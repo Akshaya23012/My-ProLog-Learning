@@ -35,3 +35,4 @@ grandpa(X, Y) :-
     male(X),
     parent(X, Z),
     parent(Z, Y).
+
