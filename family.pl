@@ -36,3 +36,4 @@ grandpa(X, Y) :-
     parent(X, Z),
     parent(Z, Y).
 
+parent(X,Y).
